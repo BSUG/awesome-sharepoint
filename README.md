@@ -27,3 +27,5 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 
 * [smtp4dev](http://smtp4dev.codeplex.com/) - Dummy SMTP server.
 * [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
+* [ILSpy](http://ilspy.net/) - An open-source .NET assembly browser and decompiler. Development started after Red Gate announced that the free version of .NET Reflector would cease to exist by end of February 2011.
+* [Fiddler](http://www.telerik.com/download/fiddler) - A free web debugging proxy for any browser, system or platform.
