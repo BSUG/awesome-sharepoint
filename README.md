@@ -15,8 +15,9 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 
 ## Productivity
 
-* [SharePoint ULS Log Viewer](http://ulsviewer.codeplex.com/) - A windows application for viewing SharePoint ULS log files more easily. Supports filtering and easy viewing of data.
-* [SharePoint Manager](http://spm.codeplex.com/) - A SharePoint object model explorer. It enables you to browse every site on the local farm and view every property.
+* [SharePoint ULS Log Viewer](http://ulsviewer.codeplex.com/) - Windows application for viewing SharePoint ULS log files more easily. Supports filtering and easy viewing of data.
+* [SharePoint Manager](http://spm.codeplex.com/) - SharePoint object model explorer. It enables you to browse every site on the local farm and view every property.
+* [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - Tool to test out and debug search queries against the SharePoint 2013 Search REST API.
 
 ## Utilities
 
