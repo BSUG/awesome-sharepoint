@@ -15,6 +15,10 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 * [Debugger Canvas](http://visualstudiogallery.msdn.microsoft.com/4a979842-b9aa-4adf-bfef-83bd428a0acb) - A new user experience for the debugger in Visual Studio Ultimate. It pulls together the code you’re exploring onto a single pan-and-zoom display. Currently it only supports VS 2010, hopefully it will be ported to newer versions soon.
 * [SPFastDeploy](http://visualstudiogallery.msdn.microsoft.com/9e03d0f5-f931-4125-a5d1-7c1529554fbd) - Extension to deploy single file resource (scripts, css, etc) to on-premise and Office 365 SharePoint app model. 
 
+## Libraries
+
+* [Camlex.Net](http://camlex.codeplex.com/) - Simplifies creating of CAML queries for Windows SharePoint Services by using expression trees.
+
 ## Productivity
 
 * [SharePoint ULS Log Viewer](http://ulsviewer.codeplex.com/) - Windows application for viewing SharePoint ULS log files more easily. Supports filtering and easy viewing of data.
