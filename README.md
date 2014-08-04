@@ -23,6 +23,10 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 * [CAML Designer 2013](http://www.camldesigner.com/) - With the help of this tool you can: build CAML queries for single lists, build queries that can be executed with SPSiteDataQuery, get code snippets for the server-side object model, the JavaScript client-side object model and last but not least code snippets when working with REST.
 * [SPCAF – SharePoint Code Analysis Framework](http://www.spcaf.com/) - SPCAF is a code quality tool that analyses SharePoint solutions and apps and checks JavaScript, .NET code, XML, ASPX, CSS for correctness, best practices etc. Additionally it calculates code metrics, creates artifact dependency graphs, and solution documentation.
 
+## Search
+
+* [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - Tool for testing and debugging search queries against the SharePoint 2013 Search REST API.
+
 ## Utilities
 
 * [smtp4dev](http://smtp4dev.codeplex.com/) - Dummy SMTP server.
