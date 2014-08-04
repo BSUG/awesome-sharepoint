@@ -12,3 +12,12 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 
 * [CKS: Development Tools Edition](http://visualstudiogallery.msdn.microsoft.com/cf1225b4-aa83-4282-b4c6-34feec8fc5ec) - Collection of Visual Studio templates, Server Explorer extensions and tools providing accelerated SharePoint 2010/2013 development.
 * [PowerShell Tools for Visual Studio 2013](http://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597) - PowerShell integration for Visual Studio.
+
+## Productivity
+
+* [SharePoint ULS Log Viewer](http://ulsviewer.codeplex.com/) - A windows application for viewing SharePoint ULS log files more easily. Supports filtering and easy viewing of data.
+* [SharePoint Manager](http://spm.codeplex.com/) - A SharePoint object model explorer. It enables you to browse every site on the local farm and view every property.
+
+## Utilities
+
+* [smtp4dev](http://smtp4dev.codeplex.com/) - Dummy SMTP server.
