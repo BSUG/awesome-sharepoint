@@ -37,3 +37,7 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 * [dotPeek](http://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
 * [ILSpy](http://ilspy.net/) - An open-source .NET assembly browser and decompiler, a free alternative to .NET Reflector by Red Gate.
 * [Fiddler](http://www.telerik.com/download/fiddler) - A free web debugging proxy for any browser, system or platform.
+
+## Administration
+
+* [SharePoint 2013 and ADFS 2.0 Test with Claims Viewer Web Part](http://sharepointobservations.wordpress.com/2013/08/21/sharepoint-2013-and-adfs-2-0-test-with-claims-viewer-web-part/) - Solution to view the contents of the SAML token.
