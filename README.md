@@ -26,6 +26,11 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 * [CAML Designer 2013](http://www.camldesigner.com/) - With the help of this tool you can: build CAML queries for single lists, build queries that can be executed with SPSiteDataQuery, get code snippets for the server-side object model, the JavaScript client-side object model and last but not least code snippets when working with REST.
 * [SPCAF – SharePoint Code Analysis Framework](http://www.spcaf.com/) - A code quality tool that analyses SharePoint solutions and apps and checks JavaScript, .NET code, XML, ASPX, CSS for correctness, best practices etc. Additionally it calculates code metrics, creates artifact dependency graphs, and solution documentation.
 
+## Branding
+
+* [Starter Master Pages for SharePoint](http://startermasterpages.codeplex.com/) - Clean Starter Master Pages for SharePoint, commented starting point for creating your own SharePoint branding. 
+* [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
+
 ## Search
 
 * [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - A tool for testing and debugging search queries against the SharePoint 2013 Search REST API.
@@ -33,7 +38,13 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 ## Utilities
 
 * [smtp4dev](http://smtp4dev.codeplex.com/) - A dummy SMTP server.
-* [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
 * [dotPeek](http://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
 * [ILSpy](http://ilspy.net/) - An open-source .NET assembly browser and decompiler, a free alternative to .NET Reflector by Red Gate.
 * [Fiddler](http://www.telerik.com/download/fiddler) - A free web debugging proxy for any browser, system or platform.
+
+## Administration
+
+* [SharePoint 2013 and ADFS 2.0 Test with Claims Viewer Web Part](http://sharepointobservations.wordpress.com/2013/08/21/sharepoint-2013-and-adfs-2-0-test-with-claims-viewer-web-part/) - Solution to view the contents of the SAML token.
+* [SharePoint Feature Administration and Clean Up Tool](http://featureadmin.codeplex.com/) - Finds faulty FeatureDefinitions and cleanly uninstalls them.
+* [SharePoint 2013 FBA Pack](http://sharepoint2013fba.codeplex.com/) - Forms based authentication pack for SharePoint 2013.
+* [SPBestWarmUp](http://spbestwarmup.codeplex.com/) - Warm Up script for SharePoint pages.
