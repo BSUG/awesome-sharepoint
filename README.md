@@ -29,11 +29,11 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 ## Branding
 
 * [Starter Master Pages for SharePoint](http://startermasterpages.codeplex.com/) - Clean Starter Master Pages for SharePoint, commented starting point for creating your own SharePoint branding. 
+* [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
 
 ## Search
 
 * [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - A tool for testing and debugging search queries against the SharePoint 2013 Search REST API.
-* [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
 
 ## Utilities
 
