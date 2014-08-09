@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 ## Search
 
 * [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - A tool for testing and debugging search queries against the SharePoint 2013 Search REST API.
+* [FAST Search for Sharepoint 2010 Query Logger](https://fs4splogger.codeplex.com/) - The FS4SP Query Logger will make it easier for developers and IT pro's to debug user queries.
 
 ## Utilities
 
